@@ -18,6 +18,7 @@ import java.time.LocalDateTime;
 
 /**
  * 自定义切面，公共字段自动填充
+ * 是填充到实体，不是给数据库赋值
  */
 @Aspect
 @Slf4j

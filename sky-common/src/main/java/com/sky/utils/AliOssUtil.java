@@ -51,7 +51,10 @@ public class AliOssUtil {
                 ossClient.shutdown();
             }
         }
-
+/**
+ *
+ https://exam-web-tlias.oss-cn-guangzhou.aliyuncs.com/5f594165-bbb1-48b3-99c7-7d4b14c0fbfd.png
+ */
         //文件访问路径规则 https://BucketName.Endpoint/ObjectName
         StringBuilder stringBuilder = new StringBuilder("https://");
         stringBuilder

@@ -11,3 +11,11 @@ sky:
     accessKeyId: LTAI5tQ46FyHy7ynQPcxm4rD
     accessKeySecret: PgMCVNNaRcyU8VSZXdKjLvZAF2eXIv
     bucketName: exam-web-tlias
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 10
+  wechat:
+    appid: wxc5707cea2a19044c
+    secret: dd9cf0ab4238e7533af02696c27e53b0
